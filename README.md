@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Bruno Henrique Correa
 
-**`Desenvolvedora Back-End Aprendiz`**
+**`Desenvolvedor Back-End Aprendiz`**
 
 Me chamo Bruno Henrique Correa, tenho 18 anos e sou natural de Santa Catarina. Concluí o ensino médio no Sesi, com o curso técnico em Desenvolvimento de Sistema. Atualmente, estou cursando Engenharia de Software na Católica. Sou apaixonado por tecnologia e jogos online.
 
